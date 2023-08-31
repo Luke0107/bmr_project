@@ -12,7 +12,7 @@
 |√|判定BMI體位|operate, if|5|
 |√|判定BMR體位(男女不同)|operate, if|10|
 |√|新增資料庫個人資料|file open/dict|10|
-|[√|查詢資料庫個人資料|file read/dict|10|
+|√|查詢資料庫個人資料|file read/dict|10|
 |√|有使用function操作|def|5|
 |√|有使用自訂模組操作|import|5|
 
